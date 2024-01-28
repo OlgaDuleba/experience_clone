@@ -1,1 +1,7 @@
 From terminal
+
+1st commit added
+
+2nd action
+
+3rd action for commit
